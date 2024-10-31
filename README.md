@@ -10,7 +10,7 @@
 ## Introduction
 Medical imaging has revolutionized the way various diseases are diagnosed and treated. With advancements in tools like the CT scan (Computed Tomography) and the MRI scan (Magnetic Resonance Imaging), medical professionals find it easy to identify and characterize abnormalities in the human body. A CT scan produces multiple 2D cross-sectional images of an organ or a body part. Interpreting these images can be challenging, and visualizing the complex structures and relationships within the data can be even more so.
 
-![image](https://github.com/user-attachments/assets/5e075ff0-06b9-4c02-9da4-b99ed5c91f25)
+<img src="[abdominal_3D_object.png](https://github.com/user-attachments/assets/5e075ff0-06b9-4c02-9da4-b99ed5c91f25)" alt="CT-Scans" width="400"/>
 
 ## About Project
 This project is about converting CT scan data to a 3D object. The goal of this project is to make it easier for doctors and other medical professionals to visualize and understand the structures they're looking at.
@@ -38,12 +38,14 @@ This project has successfully converted multiple 2D DICOM images to a 3D object 
 
 #### Results:
 - **Abdomen 3D Object**  
-  ![image](https://github.com/user-attachments/assets/26f5a570-0a8d-44e2-b3d7-2f2aaffcba47)
-  ![image](https://github.com/user-attachments/assets/a198debe-2cca-4a99-979d-398c890121a4)
+
+  <img src="https://github.com/user-attachments/assets/26f5a570-0a8d-44e2-b3d7-2f2aaffcba47" alt="Abdomen-3D-Object-1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/a198debe-2cca-4a99-979d-398c890121a4" alt="Abdomen-3D-Object-2" width="400"/>
 
 - **Arm 3D Object**  
-  ![image](https://github.com/user-attachments/assets/f05a25b0-9334-4ed7-9d6a-df105112dde0)
-  ![image](https://github.com/user-attachments/assets/0ff799a4-1b77-4db6-b9eb-357c30ea18d5)
+
+  <img src="https://github.com/user-attachments/assets/f05a25b0-9334-4ed7-9d6a-df105112dde0" alt="Arm-3D-Object-1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/0ff799a4-1b77-4db6-b9eb-357c30ea18d5" alt="Arm-3D-Object-2" width="400"/>
 
 ### Reasons:
 - The quality of the CT scan data may have included noise, affecting the reconstructed 3D object.
