@@ -39,12 +39,12 @@ This project has successfully converted multiple 2D DICOM images to a 3D object 
 #### Results:
 - **Abdomen 3D Object**  
 
-  <img src="https://github.com/user-attachments/assets/26f5a570-0a8d-44e2-b3d7-2f2aaffcba47" alt="Abdomen-3D-Object-1" width="400"/>
-  <img src="https://github.com/user-attachments/assets/a198debe-2cca-4a99-979d-398c890121a4" alt="Abdomen-3D-Object-2" width="400"/>
+  <img src="https://github.com/user-attachments/assets/26f5a570-0a8d-44e2-b3d7-2f2aaffcba47" alt="Abdomen-3D-Object-1" width="400" height="500"/>
+  <img src="https://github.com/user-attachments/assets/a198debe-2cca-4a99-979d-398c890121a4" alt="Abdomen-3D-Object-2" width="400" height="400"/>
 
 - **Arm 3D Object**  
 
-  <img src="https://github.com/user-attachments/assets/f05a25b0-9334-4ed7-9d6a-df105112dde0" alt="Arm-3D-Object-1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f05a25b0-9334-4ed7-9d6a-df105112dde0" alt="Arm-3D-Object-1" width="400" height="400"/>
   <img src="https://github.com/user-attachments/assets/0ff799a4-1b77-4db6-b9eb-357c30ea18d5" alt="Arm-3D-Object-2" width="400"/>
 
 ### Reasons:
