@@ -10,7 +10,7 @@
 ## Introduction
 Medical imaging has revolutionized the way various diseases are diagnosed and treated. With advancements in tools like the CT scan (Computed Tomography) and the MRI scan (Magnetic Resonance Imaging), medical professionals find it easy to identify and characterize abnormalities in the human body. A CT scan produces multiple 2D cross-sectional images of an organ or a body part. Interpreting these images can be challenging, and visualizing the complex structures and relationships within the data can be even more so.
 
-<img src="[abdominal_3D_object.png](https://github.com/user-attachments/assets/5e075ff0-06b9-4c02-9da4-b99ed5c91f25)" alt="CT-Scans" width="400"/>
+<img src="https://github.com/user-attachments/assets/5e075ff0-06b9-4c02-9da4-b99ed5c91f25" alt="CT-Scans" width="400"/>
 
 ## About Project
 This project is about converting CT scan data to a 3D object. The goal of this project is to make it easier for doctors and other medical professionals to visualize and understand the structures they're looking at.
